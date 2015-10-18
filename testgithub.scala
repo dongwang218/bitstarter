@@ -14,4 +14,5 @@
 // MAGIC %sql select * from sales_long
 
 // COMMAND ----------
+1 +2 +3
 
